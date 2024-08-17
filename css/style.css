@@ -1125,3 +1125,28 @@
   font-size: 35px;
   cursor: pointer;
 }
+
+.donate-item-now {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 150%;
+  margin-left: 36.5%;
+  background-color: #fc8500;
+    color: #f8f8f9;
+}
+
+@media screen and (max-width: 770px) { 
+  .donate-item-now {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 100%;
+    margin-left: 19%;
+    background-color: #fc8500;
+    color: #f8f8f9;
+  }
+}
+
+
+.donate-item-new{
+font-size: large;
+}
