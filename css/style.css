@@ -1132,10 +1132,11 @@
   font-size: 150%;
   margin-left: 36.5%;
   background-color: #fc8500;
-    color: #f8f8f9;
+  color: #f8f8f9;
+  text-align: justify;
 }
 
-@media screen and (max-width: 770px) { 
+@media screen and (max-width: 770px) {
   .donate-item-now {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -1143,10 +1144,13 @@
     margin-left: 19%;
     background-color: #fc8500;
     color: #f8f8f9;
+    text-align: justify;
   }
 }
 
-
-.donate-item-new{
-font-size: large;
+.donate-item-new {
+  font-size: large;
+}
+.ul {
+  text-align: justify;
 }
