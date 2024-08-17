@@ -862,7 +862,7 @@
     font-size: 14px;
     margin-left: 12%;
     padding-top: -40%;
-    text-align: justify;
+    text-align: left;
   }
 }
 
@@ -872,7 +872,7 @@
     font-size: 20px;
     margin-left: 2%;
     padding-top: 10px;
-    text-align: justify;
+    text-align: left;
   }
 }
 
@@ -882,19 +882,19 @@
     font-size: 16px;
     margin-left: 2%;
     padding-top: 10px;
-    text-align: justify;
+    text-align: left;
   }
 }
 
 @media screen and (max-width: 500px) {
   .donate-container-text-center ul {
-    text-align: justify;
+    text-align: left;
   }
 }
 
 @media screen and (max-width: 500px) {
   .donate-container-text-center li {
-    text-align: justify;
+    text-align: left;
   }
 }
 
