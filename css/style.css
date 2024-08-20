@@ -988,6 +988,18 @@
   display: inline-block;
 }
 
+@media screen and (max-width: 770px) {
+  .gavac-founder-text p {
+    margin: left;
+    font-size: 35px;
+    color: #293872;
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+  }
+}
+
 .gavac-founder-text p::after {
   content: "";
   width: 50px;
