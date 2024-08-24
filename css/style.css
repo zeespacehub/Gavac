@@ -1153,6 +1153,20 @@
   cursor: pointer;
 }
 
+.donate-gallery{
+  background-color: #023047;
+  color: #fc8500;
+  border-radius: 20px;
+  font-weight: 500;
+  transition: 0.5s;
+
+}
+
+.donate-gallery:hover{
+  background-color: #fc8500;
+  color: white;
+}
+
 .donate-item-now {
   padding-top: 10px;
   padding-bottom: 10px;
