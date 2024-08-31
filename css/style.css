@@ -1104,6 +1104,7 @@
   padding-bottom: 10px;
 }
 
+
 /* The grid: Four equal columns that floats next to each other */
 .column-section {
   float: left;
@@ -1175,6 +1176,20 @@ margin-right: 15%;
 .fun-day-text h2{
   text-align: center;
 }
+
+
+.fun-day-text p{
+  text-align: center;
+}
+
+.gavca-school{
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+
 
 
 .donate-gallery{
